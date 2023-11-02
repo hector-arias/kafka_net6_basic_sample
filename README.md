@@ -1,0 +1,1 @@
+# kafka_net6_basic_sample
